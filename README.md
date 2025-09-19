@@ -101,10 +101,7 @@ Bar chart comparing average customer ratings across products.
 
 Clone this repo:
 
-git clone https://github.com/yourusername/customer-feedback-sentiment.git
-cd customer-feedback-sentiment
-
-
+git clone https://github.com/vumalo/Customer-Feedback-Sentiment-Analysis.git
 Install dependencies:
 
 pip install pandas matplotlib openpyxl
