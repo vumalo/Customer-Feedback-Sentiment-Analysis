@@ -1,0 +1,6 @@
+product_id,product_name,total_reviews,avg_rating,avg_sentiment_score,positive_count,neutral_count,negative_count
+P01,EcoClean Enzyme,28,3.4285714285714284,0.16760357142857144,18,8,2
+P02,Porto Solar Kit,27,3.185185185185185,0.16706666666666667,17,8,2
+P03,QuickShip Delivery,16,3.4375,0.2311,10,5,1
+P04,CafeBrew Blend,27,3.3333333333333335,0.020718518518518518,7,15,5
+P05,FitTrack Band,22,3.3636363636363638,0.17283181818181817,11,10,1

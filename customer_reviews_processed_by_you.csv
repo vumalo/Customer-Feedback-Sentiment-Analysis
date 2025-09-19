@@ -1,0 +1,121 @@
+review_id,product_id,product_name,customer_name,review_date,rating,review_text,pos_count,neg_count,token_count,sentiment_score,sentiment_label,match_preview
+R1001,P01,EcoClean Enzyme,Linda Williams,2025-07-22,3,met expectations,0,0,2,0.0,neutral,
+R1002,P01,EcoClean Enzyme,Susan Smith,2025-09-04,5,quality is superb,1,0,3,0.3333,positive,superb|pos
+R1003,P01,EcoClean Enzyme,Michael Lopez,2025-08-31,4,very satisfied — well packaged,1,0,4,0.25,positive,satisfied|pos
+R1004,P05,FitTrack Band,Jennifer Lopez,2025-06-21,4,five stars — well packaged,1,0,4,0.25,positive,well|pos
+R1005,P04,CafeBrew Blend,John Miller,2025-07-04,2,Waste of money. Not sure about this,0,1,7,-0.1429,negative,waste|neg
+R1006,P01,EcoClean Enzyme,Joseph Rodriguez,2025-06-26,2,waste of money,0,1,3,-0.3333,negative,waste|neg
+R1007,P01,EcoClean Enzyme,Barbara Martinez,2025-09-08,1,one star — contact support,1,0,4,0.25,positive,support|pos
+R1008,P02,Porto Solar Kit,Linda Wilson,2025-07-01,5,Love it — well packaged. Not sure about this,2,0,8,0.25,positive,love|pos; well|pos
+R1009,P01,EcoClean Enzyme,Barbara Garcia,2025-07-11,4,five stars — well packaged,1,0,4,0.25,positive,well|pos
+R1010,P02,Porto Solar Kit,Jennifer Rodriguez,2025-09-06,4,quality is superb — well packaged,1,0,5,0.2,positive,superb|pos
+R1011,P02,Porto Solar Kit,Sarah Brown,2025-09-10,1,late delivery,0,0,2,0.0,neutral,
+R1012,P03,QuickShip Delivery,William Johnson,2025-08-11,5,excellent product — quick response,1,0,4,0.25,positive,excellent|pos
+R1013,P02,Porto Solar Kit,Jessica Miller,2025-09-12,5,fast delivery,1,0,2,0.5,positive,fast|pos
+R1014,P04,CafeBrew Blend,Sarah Rodriguez,2025-07-22,3,okay product,0,0,2,0.0,neutral,
+R1015,P03,QuickShip Delivery,Robert Rodriguez,2025-07-19,2,one star,0,0,2,0.0,neutral,
+R1016,P04,CafeBrew Blend,Jennifer Gonzalez,2025-07-10,2,not satisfied,0,1,2,-0.5,negative,satisfied|pos->neg
+R1017,P04,CafeBrew Blend,Joseph Rodriguez,2025-09-05,3,as described,0,0,2,0.0,neutral,
+R1018,P03,QuickShip Delivery,Sarah Gonzalez,2025-07-05,4,Pleasant experience. Hope they improve,2,0,5,0.4,positive,improve|pos; pleasant|pos
+R1019,P03,QuickShip Delivery,Joseph Smith,2025-07-11,3,It works. Not sure about this,1,0,6,0.1667,positive,works|pos
+R1020,P03,QuickShip Delivery,Elizabeth Wilson,2025-07-04,3,okay product,0,0,2,0.0,neutral,
+R1021,P05,FitTrack Band,Thomas Smith,2025-08-29,4,fast delivery — very helpful,2,0,4,0.5,positive,fast|pos; helpful|pos
+R1022,P05,FitTrack Band,Linda Smith,2025-07-30,2,Waste of money. Not sure about this,0,1,7,-0.1429,negative,waste|neg
+R1023,P02,Porto Solar Kit,Sarah Gonzalez,2025-06-29,3,As described. Not sure about this,0,0,6,0.0,neutral,
+R1024,P02,Porto Solar Kit,Jennifer Jones,2025-08-30,3,okay product,0,0,2,0.0,neutral,
+R1025,P05,FitTrack Band,Michael Lopez,2025-09-17,4,Fast delivery. Hope they improve,2,0,5,0.4,positive,fast|pos; improve|pos
+R1026,P03,QuickShip Delivery,Thomas Davis,2025-08-16,4,five stars,0,0,2,0.0,neutral,
+R1027,P01,EcoClean Enzyme,Charles Brown,2025-07-20,2,Broken — contact support. Hope they improve,2,1,6,0.1667,positive,improve|pos; support|pos; broken|neg
+R1028,P01,EcoClean Enzyme,David Johnson,2025-06-25,4,Very satisfied. Will buy again,1,0,5,0.2,positive,satisfied|pos
+R1029,P05,FitTrack Band,Charles Davis,2025-09-02,4,Works perfectly — very helpful. Will buy again,2,0,7,0.2857,positive,helpful|pos; perfectly|pos
+R1030,P02,Porto Solar Kit,Susan Garcia,2025-09-13,1,Terrible experience. Will buy again,0,1,5,-0.2,negative,terrible|neg
+R1031,P04,CafeBrew Blend,Patricia Smith,2025-09-15,4,five stars,0,0,2,0.0,neutral,
+R1032,P04,CafeBrew Blend,Sarah Davis,2025-07-15,2,Waste of money. Will buy again,0,1,6,-0.1667,negative,waste|neg
+R1033,P02,Porto Solar Kit,Sarah Johnson,2025-08-16,1,One star — contact support. Will buy again,1,0,7,0.1429,positive,support|pos
+R1034,P01,EcoClean Enzyme,Linda Williams,2025-07-02,5,quality is superb,1,0,3,0.3333,positive,superb|pos
+R1035,P04,CafeBrew Blend,Jennifer Miller,2025-06-28,5,beyond expectations,0,0,2,0.0,neutral,
+R1036,P01,EcoClean Enzyme,Sarah Hernandez,2025-09-18,5,five stars — very helpful,1,0,4,0.25,positive,helpful|pos
+R1037,P04,CafeBrew Blend,Charles Lopez,2025-06-28,3,Okay product. Will buy again,0,0,5,0.0,neutral,
+R1038,P05,FitTrack Band,Thomas Wilson,2025-08-21,2,Poor quality. Hope they improve,1,1,5,0.0,neutral,improve|pos; poor|neg
+R1039,P05,FitTrack Band,Karen Johnson,2025-06-29,4,Highly recommend — well packaged. Will buy again,1,0,7,0.1429,positive,recommend|pos
+R1040,P02,Porto Solar Kit,Charles Martinez,2025-07-22,3,No issues. Hope they improve,2,0,5,0.4,positive,improve|pos; issues|neg->pos
+R1041,P01,EcoClean Enzyme,David Jones,2025-08-26,2,not satisfied,0,1,2,-0.5,negative,satisfied|pos->neg
+R1042,P02,Porto Solar Kit,Elizabeth Davis,2025-07-07,4,Quality is superb. Not sure about this,1,0,7,0.1429,positive,superb|pos
+R1043,P03,QuickShip Delivery,William Williams,2025-08-24,1,Not satisfied — needs improvement. Will buy again,0,2,7,-0.2857,negative,improvement|pos->neg; satisfied|pos->neg
+R1044,P03,QuickShip Delivery,Joseph Wilson,2025-07-11,5,very satisfied,1,0,2,0.5,positive,satisfied|pos
+R1045,P05,FitTrack Band,Thomas Smith,2025-09-12,3,nothing special,0,0,2,0.0,neutral,
+R1046,P05,FitTrack Band,Patricia Johnson,2025-07-24,4,Saved me time. Will buy again,0,0,6,0.0,neutral,
+R1047,P05,FitTrack Band,Michael Lopez,2025-09-06,3,okay product,0,0,2,0.0,neutral,
+R1048,P03,QuickShip Delivery,Jessica Jones,2025-08-24,4,works perfectly,1,0,2,0.5,positive,perfectly|pos
+R1049,P01,EcoClean Enzyme,James Garcia,2025-06-26,4,very satisfied,1,0,2,0.5,positive,satisfied|pos
+R1050,P02,Porto Solar Kit,Sarah Smith,2025-08-14,2,didn't work — contact support,2,0,5,0.4,positive,support|pos; work|pos
+R1051,P01,EcoClean Enzyme,Sarah Smith,2025-07-10,5,very satisfied,1,0,2,0.5,positive,satisfied|pos
+R1052,P03,QuickShip Delivery,Elizabeth Garcia,2025-06-26,4,fast delivery,1,0,2,0.5,positive,fast|pos
+R1053,P01,EcoClean Enzyme,Sarah Wilson,2025-08-05,5,great value — quick response,1,0,4,0.25,positive,great|pos
+R1054,P04,CafeBrew Blend,Jennifer Gonzalez,2025-07-21,5,fast delivery,1,0,2,0.5,positive,fast|pos
+R1055,P02,Porto Solar Kit,Linda Jones,2025-08-12,4,five stars — well packaged,1,0,4,0.25,positive,well|pos
+R1056,P02,Porto Solar Kit,Michael Wilson,2025-07-19,5,love it — quick response,1,0,4,0.25,positive,love|pos
+R1057,P04,CafeBrew Blend,Linda Smith,2025-07-20,2,waste of money,0,1,3,-0.3333,negative,waste|neg
+R1058,P02,Porto Solar Kit,Barbara Hernandez,2025-07-26,2,one star,0,0,2,0.0,neutral,
+R1059,P05,FitTrack Band,James Johnson,2025-08-02,1,one star,0,0,2,0.0,neutral,
+R1060,P03,QuickShip Delivery,Maria Johnson,2025-07-24,3,okay product,0,0,2,0.0,neutral,
+R1061,P05,FitTrack Band,Susan Martinez,2025-07-31,3,no issues,1,0,2,0.5,positive,issues|neg->pos
+R1062,P05,FitTrack Band,Michael Jones,2025-09-02,3,as described,0,0,2,0.0,neutral,
+R1063,P01,EcoClean Enzyme,Michael Garcia,2025-08-28,5,love it,1,0,2,0.5,positive,love|pos
+R1064,P04,CafeBrew Blend,Karen Garcia,2025-08-02,3,as described,0,0,2,0.0,neutral,
+R1065,P01,EcoClean Enzyme,Susan Garcia,2025-09-14,3,nothing special,0,0,2,0.0,neutral,
+R1066,P04,CafeBrew Blend,Jennifer Martinez,2025-08-08,4,Love it — quick response. Hope they improve,2,0,7,0.2857,positive,improve|pos; love|pos
+R1067,P05,FitTrack Band,Elizabeth Brown,2025-07-29,2,didn't work,1,0,3,0.3333,positive,work|pos
+R1068,P04,CafeBrew Blend,Joseph Hernandez,2025-08-16,5,fast delivery,1,0,2,0.5,positive,fast|pos
+R1069,P02,Porto Solar Kit,John Jones,2025-07-12,1,refund please,1,0,2,0.5,positive,refund|pos
+R1070,P05,FitTrack Band,Elizabeth Brown,2025-07-21,5,quality is superb,1,0,3,0.3333,positive,superb|pos
+R1071,P02,Porto Solar Kit,John Davis,2025-09-07,4,highly recommend — quick response,1,0,4,0.25,positive,recommend|pos
+R1072,P04,CafeBrew Blend,Linda Williams,2025-08-11,2,broken,0,1,1,-1.0,negative,broken|neg
+R1073,P01,EcoClean Enzyme,Joseph Smith,2025-08-26,1,Not satisfied. Hope they improve,1,1,5,0.0,neutral,improve|pos; satisfied|pos->neg
+R1074,P05,FitTrack Band,Thomas Rodriguez,2025-08-19,5,Works perfectly. Will buy again,1,0,5,0.2,positive,perfectly|pos
+R1075,P05,FitTrack Band,Thomas Miller,2025-09-07,4,great value,1,0,2,0.5,positive,great|pos
+R1076,P05,FitTrack Band,Joseph Jones,2025-08-20,4,beyond expectations,0,0,2,0.0,neutral,
+R1077,P02,Porto Solar Kit,William Davis,2025-07-21,4,quality is superb — well packaged,1,0,5,0.2,positive,superb|pos
+R1078,P01,EcoClean Enzyme,John Williams,2025-08-29,1,didn't work — contact support,2,0,5,0.4,positive,support|pos; work|pos
+R1079,P02,Porto Solar Kit,Michael Johnson,2025-07-10,3,average experience,0,0,2,0.0,neutral,
+R1080,P04,CafeBrew Blend,Michael Wilson,2025-06-28,2,one star,0,0,2,0.0,neutral,
+R1081,P04,CafeBrew Blend,James Wilson,2025-09-18,5,five stars,0,0,2,0.0,neutral,
+R1082,P05,FitTrack Band,Richard Wilson,2025-07-29,4,five stars,0,0,2,0.0,neutral,
+R1083,P04,CafeBrew Blend,Susan Davis,2025-07-25,3,average experience,0,0,2,0.0,neutral,
+R1084,P01,EcoClean Enzyme,Jennifer Wilson,2025-08-11,1,one star,0,0,2,0.0,neutral,
+R1085,P04,CafeBrew Blend,James Miller,2025-08-28,3,okay product,0,0,2,0.0,neutral,
+R1086,P05,FitTrack Band,Joseph Williams,2025-07-08,3,Met expectations. Not sure about this,0,0,6,0.0,neutral,
+R1087,P01,EcoClean Enzyme,Richard Jones,2025-08-03,4,Saved me time. Not sure about this,0,0,7,0.0,neutral,
+R1088,P04,CafeBrew Blend,Maria Garcia,2025-08-29,4,saved me time,0,0,3,0.0,neutral,
+R1089,P02,Porto Solar Kit,Michael Wilson,2025-07-22,5,Quality is superb — well packaged. Will buy again,1,0,8,0.125,positive,superb|pos
+R1090,P01,EcoClean Enzyme,Charles Brown,2025-07-05,4,fast delivery — quick response,1,0,4,0.25,positive,fast|pos
+R1091,P04,CafeBrew Blend,Jennifer Jones,2025-07-05,2,Didn't work. Hope they improve,2,0,6,0.3333,positive,improve|pos; work|pos
+R1092,P01,EcoClean Enzyme,Richard Lopez,2025-08-08,4,fast delivery — very helpful,2,0,4,0.5,positive,fast|pos; helpful|pos
+R1093,P02,Porto Solar Kit,Patricia Lopez,2025-07-22,4,very satisfied,1,0,2,0.5,positive,satisfied|pos
+R1094,P03,QuickShip Delivery,Barbara Rodriguez,2025-06-26,4,Quality is superb. Hope they improve,2,0,6,0.3333,positive,improve|pos; superb|pos
+R1095,P04,CafeBrew Blend,James Wilson,2025-08-03,4,quality is superb,1,0,3,0.3333,positive,superb|pos
+R1096,P04,CafeBrew Blend,Robert Miller,2025-08-18,4,beyond expectations — very helpful,1,0,4,0.25,positive,helpful|pos
+R1097,P02,Porto Solar Kit,Sarah Gonzalez,2025-09-07,4,love it,1,0,2,0.5,positive,love|pos
+R1098,P04,CafeBrew Blend,William Garcia,2025-09-04,3,standard,0,0,1,0.0,neutral,
+R1099,P02,Porto Solar Kit,Charles Martinez,2025-08-19,1,not satisfied,0,1,2,-0.5,negative,satisfied|pos->neg
+R1100,P04,CafeBrew Blend,William Garcia,2025-08-05,2,Waste of money — contact support. Will buy again,1,1,8,0.0,neutral,support|pos; waste|neg
+R1101,P03,QuickShip Delivery,John Brown,2025-07-15,1,didn't work,1,0,3,0.3333,positive,work|pos
+R1102,P04,CafeBrew Blend,Jessica Davis,2025-09-11,4,Beyond expectations. Not sure about this,0,0,6,0.0,neutral,
+R1103,P01,EcoClean Enzyme,Linda Jones,2025-08-11,3,as described,0,0,2,0.0,neutral,
+R1104,P05,FitTrack Band,Sarah Garcia,2025-08-14,4,great value,1,0,2,0.5,positive,great|pos
+R1105,P03,QuickShip Delivery,Patricia Lopez,2025-07-20,5,love it,1,0,2,0.5,positive,love|pos
+R1106,P02,Porto Solar Kit,Jennifer Brown,2025-09-17,3,It works. Hope they improve,2,0,5,0.4,positive,improve|pos; works|pos
+R1107,P02,Porto Solar Kit,Thomas Martinez,2025-09-04,3,standard,0,0,1,0.0,neutral,
+R1108,P03,QuickShip Delivery,Jennifer Jones,2025-08-06,4,very satisfied,1,0,2,0.5,positive,satisfied|pos
+R1109,P01,EcoClean Enzyme,Sarah Jones,2025-06-27,3,okay product,0,0,2,0.0,neutral,
+R1110,P02,Porto Solar Kit,Jessica Davis,2025-08-20,1,terrible experience — needs improvement,1,1,4,0.0,neutral,improvement|pos; terrible|neg
+R1111,P03,QuickShip Delivery,Jessica Johnson,2025-07-23,3,okay product,0,0,2,0.0,neutral,
+R1112,P01,EcoClean Enzyme,Maria Williams,2025-09-16,2,one star,0,0,2,0.0,neutral,
+R1113,P02,Porto Solar Kit,Sarah Gonzalez,2025-07-06,5,Fast delivery. Will buy again,1,0,5,0.2,positive,fast|pos
+R1114,P04,CafeBrew Blend,Richard Davis,2025-08-26,5,fast delivery,1,0,2,0.5,positive,fast|pos
+R1115,P04,CafeBrew Blend,Charles Martinez,2025-07-30,4,saved me time,0,0,3,0.0,neutral,
+R1116,P01,EcoClean Enzyme,Michael Jones,2025-09-09,5,Fast delivery. Will buy again,1,0,5,0.2,positive,fast|pos
+R1117,P01,EcoClean Enzyme,Joseph Lopez,2025-08-12,5,Highly recommend — well packaged. Will buy again,1,0,7,0.1429,positive,recommend|pos
+R1118,P05,FitTrack Band,Joseph Johnson,2025-07-27,2,Terrible experience. Hope they improve,1,1,5,0.0,neutral,improve|pos; terrible|neg
+R1119,P02,Porto Solar Kit,Michael Miller,2025-09-13,5,saved me time,0,0,3,0.0,neutral,
+R1120,P01,EcoClean Enzyme,John Smith,2025-07-09,4,pleasant experience — quick response,1,0,4,0.25,positive,pleasant|pos
